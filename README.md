@@ -7,7 +7,7 @@
 
 ### Project Objectives
 1. Create a [Customer Performance Report](https://github.com/somyance/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)  
-2. Compare [Market Performance vs Sales Targets](https://github.com/somyance/Excel-Sales_Analysis/blob/main/market_performance_report.pdf)to identify business growth areas  
+2. Compare [Market Performance vs Sales Targets](https://github.com/somyance/Excel-Sales_Analysis/blob/main/market_performance_report.pdf) to identify business growth areas  
 
 ### Purpose of Sales Analytics
 Sales analytics enables businesses to track, monitor, and evaluate sales performance across customers and markets.
